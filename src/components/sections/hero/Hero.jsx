@@ -1,5 +1,5 @@
 import logo from '../../../assets/img/logo-flyart-100-px.png'
-import IconsBar from '../../generics/icons_bar'
+import IconsBar from './icons_bar'
 import PropTypes from 'prop-types'
 
 function Hero ({ occupation, institution }) {
